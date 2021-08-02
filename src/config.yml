@@ -1,0 +1,30 @@
+main:
+  status: false
+  activator: null
+  slots: 0
+message:
+  MOTD:
+    line1: MOTD LINE 1
+    line2: MOTD LINE 2
+  prefix: §cMaintenance §8>§r
+  enabled: §a§lenabled§r
+  disabled: §c§ldisabled§r
+  status: Maintenance is currently STATUS!
+  activatormessage: §8§i(By ACTIVATOR)§r
+  error: §4✖Error✖§r
+  nowmaintenanceoff:
+  nowmaintenanceon:
+  configreload:
+  noperm:
+  exclamationmark: true
+  kick:
+    line1: §cMaintenance
+    line2:
+    line3: §fMaintenance is currently Active
+    line4:
+    line5: §fMore information on https://yourserver.com
+    line6: §fDiscord discord.gg/yourserver
+
+    
+    
+

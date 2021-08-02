@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InMaintenance">
+    <output-path>$USER_HOME$/Desktop/Sam/plugins</output-path>
+    <root id="archive" name="InMaintenance.jar">
+      <element id="module-output" name="InMaintenance" />
+    </root>
+  </artifact>
+</component>

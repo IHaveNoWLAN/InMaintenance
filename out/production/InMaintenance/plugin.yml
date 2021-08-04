@@ -1,9 +1,0 @@
-name: InMaintenance
-main: me.ihavenowlan.inmaintenance.Main
-version: 1.0
-author: IHaveNoWLAN
-website: ihavenowlan.github.io
-commands:
-  maintenance:
-    description: Manage the Maintenance
-
